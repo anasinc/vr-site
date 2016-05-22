@@ -1,0 +1,34 @@
+baseurl = "http://vr.anasit.com"
+contentdir = "content"
+languageCode = "en-us"
+title = "Anas VR's Homesite | 安纳斯VR官方网站"
+builddrafts = false
+
+# for theme
+theme = "anas-one"
+#pygmentsuseclasses = true
+MetaDataFormat = "toml"
+paginate = 9
+
+disqusShortname = "vrnova" # optional
+
+copyright = "©2015-2016 Anas VR's Homesite | 安纳斯VR官方网站"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  keywords = "安纳斯VR,Cardboard官方网站,安纳斯联盟,入门级VR体验,虚拟现实,增强现实"
+  author = "刘雨飏, the Founder of ANAS"
+  description = "这里是Anas VR产品的官方网站，欢迎关注虚拟现实技术最新动态，支持RSS订阅。|安纳斯VR Anas VR 官方网站|Arch, Nova, Association, Science, The ship of information era.-Anas IT Inc." # optional
+
+
+  twitter = "vr_nova" # optional
+  github = "anasinc" # optional
+  #facebook = "Your facebook Name" # optional
+  #gplus = "ryanemax" # optional
+  linkedin = "anasinc" # optional
+  #headerCover = "images/headerCover.png" # optional
+  #footerCover = "images/footerCover.png" # optional
+  #googleAnalyticsUserID = "Your Analytics User Id" # optional

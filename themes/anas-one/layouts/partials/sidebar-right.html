@@ -1,0 +1,101 @@
+					<aside class="col-lg-4">
+
+						<div class="sidebar">
+
+							<div class="search">
+								<input type="text" placeholder="Search">
+								<input type="submit" value="">
+							</div>
+{{ $baseurl := .Site.BaseURL }}
+
+{{ with .Site.Taxonomies.categories }}
+							<div class="aside-categories">
+								<h1 class="main-title">Categories</h1>
+								<div class="main-border"></div>
+								<ul>
+
+    {{ range $name, $value := . }}
+									<li>
+										<a href="{{ $baseurl }}categories/{{ $name | urlize }}">{{ title $name }} - {{ .Count }} 篇<i class="fa fa-angle-right"></i></a>
+									</li>
+    {{ end }}
+								</ul>
+							</div>
+							<!-- end aside categories -->
+{{ end }}
+
+
+{{ with .Data.Pages }}
+							<!-- popuar posts -->
+							<div class="popular-posts">
+								<h1 class="main-title">Popular Posts</h1>
+								<div class="main-border"></div>
+
+								<ul>
+    {{ range first 7 . }}
+			{{ .Render "li" }}
+    {{ end }}
+								</ul>
+							</div>
+							<!-- end popuar posts -->
+    {{ end }}
+
+
+
+							{{ with .Site.Taxonomies.tags }}
+							<div class="tags clearfix">
+								<h1 class="main-title">Tags</h1>
+								<div class="main-border"></div>
+								<ul>
+									{{ range $name, $value := . }}
+									<li><a href="{{ $baseurl }}tags/{{ $name | urlize }}">{{ $name }} - {{.Count}} 篇</a></li>
+									{{ end }}
+								</ul>
+							</div>
+							<!-- end tags -->
+							{{ end }}
+					
+
+							<div class="photo-feed">
+								<h1 class="main-title">Flickr Photos</h1>
+								<div class="main-border"></div>
+
+								<ul class="row">
+									<li class="col-sm-3"><a href="#"><img src="/upload/flickr1.jpg" alt=""></a></li>
+									<li class="col-sm-3"><a href="#"><img src="/upload/flickr2.jpg" alt=""></a></li>
+									<li class="col-sm-3"><a href="#"><img src="/upload/flickr3.jpg" alt=""></a></li>
+									<li class="col-sm-3"><a href="#"><img src="/upload/flickr4.jpg" alt=""></a></li>
+								</ul>
+								<ul class="row">
+									<li class="col-sm-3"><a href="#"><img src="/upload/flickr5.jpg" alt=""></a></li>
+									<li class="col-sm-3"><a href="#"><img src="/upload/flickr6.jpg" alt=""></a></li>
+									<li class="col-sm-3"><a href="#"><img src="/upload/flickr7.jpg" alt=""></a></li>
+									<li class="col-sm-3"><a href="#"><img src="/upload/flickr8.jpg" alt=""></a></li>
+								</ul>
+							</div>
+							<!-- End Flickr -->
+
+							<div class="tweets">
+								<h1 class="main-title">Scan for Wechat</h1>
+								<div class="main-border"></div>
+								<div style="text-align:center;">
+								<img width="70%" src="/images/qrcode.jpg" alt=""/>
+								<p>扫描关注安纳斯VR微信公众账号</p>
+								</div>
+							</div>
+							<!-- End Side Tweets -->
+
+							<div class="side-tweets">
+								<h1 class="main-title">About the blog</h1>
+								<div class="main-border"></div>
+								<p>这里是Anas VR产品的官方网站，欢迎关注虚拟现实技术最新动态，支持
+								<a href="/index.xml">RSS订阅</a>。 </p>
+								<p>Arch, Nova, Association, Science, The ship of information era. - Anas IT Inc.</p>
+							</div>
+							<!-- End Side Tweets -->
+
+						</div>
+						<!-- End Sidebar -->
+
+					</aside>
+					<!-- End Aside -->
