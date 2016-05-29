@@ -9,8 +9,8 @@ Keywords:
 - news
 - cardboard
 img:
-- /news/daydream-ui.jpg
-- /news/daydream-dev.jpg
+- http://cdn.pingwest.com/wp-content/uploads/2015/07/help1.jpg
+- http://yivian.com/wp-content/uploads/2015/06/7663517359f11208d6b3087b298a07b9.jpg
 title: 巨兽围城，谷歌发布第一部真人360度VR短片《Help》
 version: 1.0.0
 date: 2016-05-24T15:03:37+08:00

@@ -10,8 +10,8 @@ Keywords:
 - news
 - cardboard
 img:
-- /news/daydream-ui.jpg
-- /news/daydream-dev.jpg
+- http://e.hiphotos.baidu.com/news/w%3D638/sign=19f58d66b5b7d0a27bc9079ef3ed760d/a6efce1b9d16fdfa1b90273ab38f8c5495ee7b62.jpg
+- http://f.hiphotos.baidu.com/news/w%3D638/sign=188e51d1e2dde711e7d240f59fedcef4/d009b3de9c82d1580153b865870a19d8bd3e4215.jpg
 source: ARinChina
 title: 与 Daydream 如何合作？
 version: 1.0.0
