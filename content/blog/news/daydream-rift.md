@@ -25,7 +25,7 @@ date: 2016-05-22T15:03:37+08:00
 
 2012年Oculus Rift通过国外知名众筹网站Kicks tarter募资到160万美元，后来被Facebook以20亿的天价收购。而当时Unity作为第一个支持Oculus眼镜的引擎，吸引了大批开发者投身VR项目的开发中。
 
-![rift](/news/rift-dkj.jpg)
+![rift](/news/rift-dkj.png)
 
 2014年Google发布了Google cardboard，让消费者能以非常低廉的成本通过手机来体验VR世界，直接点燃了今日Mobile VR的超级大战。
 
