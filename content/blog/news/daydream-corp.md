@@ -10,8 +10,8 @@ Keywords:
 - news
 - cardboard
 img:
-- http://e.hiphotos.baidu.com/news/w%3D638/sign=19f58d66b5b7d0a27bc9079ef3ed760d/a6efce1b9d16fdfa1b90273ab38f8c5495ee7b62.jpg
-- http://f.hiphotos.baidu.com/news/w%3D638/sign=188e51d1e2dde711e7d240f59fedcef4/d009b3de9c82d1580153b865870a19d8bd3e4215.jpg
+- /news/gunjack.jpg
+- /news/youtube.jpg
 source: ARinChina
 title: 与 Daydream 如何合作？
 version: 1.0.0
@@ -20,7 +20,7 @@ date: 2016-05-23T15:03:37+08:00
 
 Google 宣布 Daydream平台时我们已经知道一众知名硬件、软件、内容公司都将参与合作，那么具体的合作方式如何？本文是对 NYT、YouTube、IMAX、CCP、Epic Games 参与合作的整合。
 
-![corp](http://e.hiphotos.baidu.com/news/w%3D638/sign=e5b66cea7cec54e741ec191d81399bfd/35a85edf8db1cb138dddddc7da54564e93584baa.jpg)
+![corp](/news/dd-corp.jpg)
 
 # 内容方面
 
@@ -34,7 +34,7 @@ Google 宣布 Daydream平台时我们已经知道一众知名硬件、软件、�
 
 另外，纽约时报还将参与谷歌针对专业视频制作人群的 Jump Camera 项目。Jump Camera 采用 Odyssey 摄像机（最新消息显示，小蚁同样是 Jump Camera 的合作方），并带有自动拼接画面功能。
 
-![jump](http://g.hiphotos.baidu.com/news/w%3D638/sign=4bd93139e01190ef01fb91dcf6199df7/b2de9c82d158ccbfa26d54ee1ed8bc3eb0354115.jpg)
+![jump](/news/jump-site.jpg)
 
 纽约时报一直都在与谷歌合作。去年 11 月，纽约时报向纸质报纸订阅用户赠送了 100 万个 Google Cardboard。本周，纽约时报还将向订阅数字版纽约时报最长时间的用户送出 30 万个 Google Cardboard，以配合观看最新的冥王星 VR 视频——名为 Seeking Pluto's Frigid Heart（探寻冥王星心脏）。
 
@@ -50,7 +50,7 @@ Google 宣布 Daydream平台时我们已经知道一众知名硬件、软件、�
 
 从过去的经历来看，一旦这种大体量公司们投入巨资之后，新技术会很快进入电影院和家家户户中，因此两个巨头的合作让 VR 电影前景变得更加乐观。
 
-![imax](http://h.hiphotos.baidu.com/news/w%3D638/sign=1c58a83d8a1001e94e3c170c800f7b06/2cf5e0fe9925bc31e3f4e04c59df8db1ca1370bd.jpg)
+![imax](/news/imax.jpg)
 
 IMAX 的工程师团队和摄像机专家将与谷歌合作，从头开始设计新型高清摄像机。IMAX 拥有世界最顶级的画面捕捉技术，世界最具影响力的导演也都在使用 IMAX 技术，如克里斯托弗·诺兰（《星际穿越》导演）、J·J·艾布拉姆斯（《星际迷航》、《星球大战 7》导演）等。
 
@@ -66,7 +66,7 @@ YouTube 将发布 VR 应用、与 NBA 等合作生产 VR 内容，并为谷歌 J
 
 这款 YouTube VR 应用将延续 YouTube 中大家喜闻乐见的功能：语音搜索、发现、播放列表等等，希望成为最大的 VR 资源库，帮助观众搜索 VR 资源。
 
-![youtube](http://e.hiphotos.baidu.com/news/w%3D638/sign=19f58d66b5b7d0a27bc9079ef3ed760d/a6efce1b9d16fdfa1b90273ab38f8c5495ee7b62.jpg)
+![youtube](/news/youtube.jpg)
 
 在 VR 内容方面，YouTube 一直在通过合作优化视频内容。YouTube 已经与 NBA、BuzzFeed 和 Tastemade 达成合作，探索虚拟环境中的叙事方式，让用户与内容制作者互动。
 
@@ -82,7 +82,7 @@ VR 内容制作硬件方面，YouTube 已经与 GoPro Odyssey 等 VR 摄影设�
 
 《Gunjack Next》的背景同样是宇宙，「我」是宇宙战争中的一名射击手，与一波波来袭的敌人进行战争。这个续集游戏同样由 CCP Games 上海工作室制作，据说发挥了 Daydream 控制器的优势。
 
-![gunjack](http://f.hiphotos.baidu.com/news/w%3D638/sign=188e51d1e2dde711e7d240f59fedcef4/d009b3de9c82d1580153b865870a19d8bd3e4215.jpg)
+![gunjack](/news/gunjack.jpg)
 
 「听到谷歌 Daydream 平台的细节时，我们就决定加入，」CCP CEO 希尔马·韦加·佩特松（Hilmar Veigar Pétursson）说，「我们认为谷歌在 Daydream 平台上投入了很多，同时我们在开发高质量、玩家期待的 VR 游戏方面经验丰富，双方有开展良好合作的基础。」
 
@@ -96,7 +96,7 @@ Epic Games 开发的 VR 内容创作引擎 Unreal Engine（虚幻引擎）与谷
 
 随着两大创作引擎 Unity 和 Unreal Engine 宣布与谷歌合作，Daydream 平台在游戏开发方面已一路畅通。
 
-![epic](http://f.hiphotos.baidu.com/news/w%3D638/sign=7d87af0853e736d158138f0ba3514ffc/5fdf8db1cb134954ccaa09b0514e9258d0094aaa.jpg)
+![epic](/news/epic.jpg)
 
 昨日，Epic Games CTO Kim Library 在 Google I/O 大会发表主题演讲，表示最新版的 Unreal Engine 4 将入驻 Daydream 平台。Unreal Engine 是 Epic Games 发行的强大的游戏设计工具包，非常受游戏开发者欢迎。
 
