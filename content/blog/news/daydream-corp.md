@@ -11,7 +11,7 @@ Keywords:
 - cardboard
 img:
 - /news/gunjack.jpg
-- /news/youtube.jpg
+- /news/youtube.png
 source: ARinChina
 title: 与 Daydream 如何合作？
 version: 1.0.0
@@ -20,7 +20,7 @@ date: 2016-05-23T15:03:37+08:00
 
 Google 宣布 Daydream平台时我们已经知道一众知名硬件、软件、内容公司都将参与合作，那么具体的合作方式如何？本文是对 NYT、YouTube、IMAX、CCP、Epic Games 参与合作的整合。
 
-![corp](/news/dd-corp.jpg)
+![corp](/news/dd-corp.png)
 
 # 内容方面
 
@@ -34,7 +34,7 @@ Google 宣布 Daydream平台时我们已经知道一众知名硬件、软件、�
 
 另外，纽约时报还将参与谷歌针对专业视频制作人群的 Jump Camera 项目。Jump Camera 采用 Odyssey 摄像机（最新消息显示，小蚁同样是 Jump Camera 的合作方），并带有自动拼接画面功能。
 
-![jump](/news/jump-site.jpg)
+![jump](/news/jump-site.png)
 
 纽约时报一直都在与谷歌合作。去年 11 月，纽约时报向纸质报纸订阅用户赠送了 100 万个 Google Cardboard。本周，纽约时报还将向订阅数字版纽约时报最长时间的用户送出 30 万个 Google Cardboard，以配合观看最新的冥王星 VR 视频——名为 Seeking Pluto's Frigid Heart（探寻冥王星心脏）。
 
@@ -66,7 +66,7 @@ YouTube 将发布 VR 应用、与 NBA 等合作生产 VR 内容，并为谷歌 J
 
 这款 YouTube VR 应用将延续 YouTube 中大家喜闻乐见的功能：语音搜索、发现、播放列表等等，希望成为最大的 VR 资源库，帮助观众搜索 VR 资源。
 
-![youtube](/news/youtube.jpg)
+![youtube](/news/youtube.png)
 
 在 VR 内容方面，YouTube 一直在通过合作优化视频内容。YouTube 已经与 NBA、BuzzFeed 和 Tastemade 达成合作，探索虚拟环境中的叙事方式，让用户与内容制作者互动。
 
