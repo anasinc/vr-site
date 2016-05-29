@@ -7,8 +7,196 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2015-2016 Anas VR&#39;s Homesite | 安纳斯VR官方网站</copyright>
-    <lastBuildDate>Sat, 21 May 2016 15:03:37 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 24 May 2016 15:03:37 +0800</lastBuildDate>
     <atom:link href="http://vr.anasit.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>巨兽围城，谷歌发布第一部真人360度VR短片《Help》</title>
+      <link>http://vr.anasit.com/blog/video/help/</link>
+      <pubDate>Tue, 24 May 2016 15:03:37 +0800</pubDate>
+      
+      <guid>http://vr.anasit.com/blog/video/help/</guid>
+      <description>&lt;p&gt;《Help》是 Google Spotlight Stories的最新创作——《速度与激情》的导演 Justin Lin和Google ATAP（Advanced Technologies and Projects）的合作成果。&lt;/p&gt;
+
+&lt;p&gt;《Help》——一部简短的沉浸式 360环幕电影，在Google I/O首映。或许只是个 5分钟长的片段，但《Help》的制作足足花了两年时间。从 Google Spotlight档案来看，《Help》处于第五系列，也是首部实景拍摄电影。在有限时间内，观众可免费下载《 Help》，但请确保足够的下载时间和内存，因为文件大小达到 1GB。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://cdn.pingwest.com/wp-content/uploads/2015/07/help1.jpg&#34; alt=&#34;monster&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;看到上面这个家伙挤到地铁车厢里去追你，会是什么感受？由于整个影片都是 360 度的全景视角，所以你可以随时转换镜头看怪物对面的乘客是什么反应。坐在电影院里看这种电影，只能是导演给什么镜头就看什么，但在你的手机上，你则可以随时选择自己想看的视角。&lt;/p&gt;
+
+&lt;p&gt;Google Spotlight Stories 允许用户使用他们的移动设备，就像一个视窗一样，可向任意方向移动和从任何角度观看。用户可直接在移动设备或 VR头显上观看360 沉浸式电影。&lt;/p&gt;
+
+&lt;p&gt;“你的手机带你走进那个世界，”正在开发 Spotlight Stories的Google ATAP 团队成员 Regina Dugan说。（来源： Variety）&lt;/p&gt;
+
+&lt;p&gt;“有了 SDK，动画片制作者可以利用熟悉的工具（如 Autodesk’s Maya）来构建故事框架，以直觉的方式填充互动式故事内容。” ATAP负责Spotlight Stories 的技术项目主管 Rachid El Guerrab在一份声明中提到，“大量工作将进入新的‘电影语言’环境；还有我们如何引导创作者在各种条件下的思考，如 3D、360 度、无摄像机、基于用户的步调。”（来源： Mashable）&lt;/p&gt;
+
+&lt;p&gt;“这更像是共同创作，” Lin在周五的Google I/O 上说，“当我设置场景时，我选什么透镜、我构建什么或不构建什么，这些都很重要，我也就这样拍电影。那么现在，我和用户共同完成这个动作，把部分权利让给他们，这其实也是一种解脱。”（来源： Mashable）&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://yivian.com/wp-content/uploads/2015/06/6057b4c9243a80d4c2538edbd0c79940.jpg&#34; alt=&#34;camera&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Google采取的方式和新发布16摄影设备的一样，新的故事模式将作为开放资源，供用户更广泛地获取。 Google正在发布一套“Story Development Kit”，为全球电影制作人提供如音效设计、编辑和测试等工具，用于创作和发布沉浸式短片和微型故事。&lt;/p&gt;
+
+&lt;p&gt;Google Spotlight Stories 旨在为用户带来一个专为移动设备量身定做的故事世界。该应用现已可在 Google Play里下载，同时将可在iOS和 Youtube应用里获得。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://yivian.com/wp-content/uploads/2015/06/7663517359f11208d6b3087b298a07b9.jpg&#34; alt=&#34;camera2&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Google Spotlight Stories 切切实实是专为移动设备定制的新型沉浸式电影故事的里程碑。&lt;/p&gt;
+
+&lt;p&gt;观看谷歌的这一电影需要用户使用&lt;a href=&#34;http://vr.anasit.com/product&#34;&gt;VR头戴设备&lt;/a&gt;，如果没有，用户也可以前往Google Spotlight Stories的YouTube频道观看或者下载Google Spotlight Stories应用（可能需要科学上网，建议与朋友互相交流）。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>与 Daydream 如何合作？</title>
+      <link>http://vr.anasit.com/blog/news/daydream-corp/</link>
+      <pubDate>Mon, 23 May 2016 15:03:37 +0800</pubDate>
+      
+      <guid>http://vr.anasit.com/blog/news/daydream-corp/</guid>
+      <description>
+
+&lt;p&gt;Google 宣布 Daydream平台时我们已经知道一众知名硬件、软件、内容公司都将参与合作，那么具体的合作方式如何？本文是对 NYT、YouTube、IMAX、CCP、Epic Games 参与合作的整合。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://e.hiphotos.baidu.com/news/w%3D638/sign=e5b66cea7cec54e741ec191d81399bfd/35a85edf8db1cb138dddddc7da54564e93584baa.jpg&#34; alt=&#34;corp&#34; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;内容方面:1722b5c79043ffb98eedf6fd1905588e&#34;&gt;内容方面&lt;/h1&gt;
+
+&lt;h2 id=&#34;纽约时报-专属应用-jump-camera-项目:1722b5c79043ffb98eedf6fd1905588e&#34;&gt;纽约时报：专属应用+Jump Camera 项目&lt;/h2&gt;
+
+&lt;p&gt;纽约时报将为 Daydream 平台开发一款应用，并参与谷歌的视频制作项目 Jump Camera。&lt;/p&gt;
+
+&lt;p&gt;昨日，纽约时报发表声明，宣布到 Daydream 平台开始运行时（如果秋天能开始运行的话），将发布为该平台开发的 VR 应用。&lt;/p&gt;
+
+&lt;p&gt;这款应用将在 Daydream-reday 手机上运行，为用户提供 VR 视频内容。纽约时报是第一批与谷歌达成合作，为 Daydream 平台开发内容应用的合作方之一。&lt;/p&gt;
+
+&lt;p&gt;另外，纽约时报还将参与谷歌针对专业视频制作人群的 Jump Camera 项目。Jump Camera 采用 Odyssey 摄像机（最新消息显示，小蚁同样是 Jump Camera 的合作方），并带有自动拼接画面功能。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://g.hiphotos.baidu.com/news/w%3D638/sign=4bd93139e01190ef01fb91dcf6199df7/b2de9c82d158ccbfa26d54ee1ed8bc3eb0354115.jpg&#34; alt=&#34;jump&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;纽约时报一直都在与谷歌合作。去年 11 月，纽约时报向纸质报纸订阅用户赠送了 100 万个 Google Cardboard。本周，纽约时报还将向订阅数字版纽约时报最长时间的用户送出 30 万个 Google Cardboard，以配合观看最新的冥王星 VR 视频——名为 Seeking Pluto&amp;rsquo;s Frigid Heart（探寻冥王星心脏）。&lt;/p&gt;
+
+&lt;p&gt;用户可以免费在 Google Play 和 iOS 应用商店免费下载应用欣赏，也可以到 YouTube 的纽约时报频道观看。&lt;/p&gt;
+
+&lt;p&gt;用户可以免费在 Google Play 和 iOS 应用商店免费下载应用欣赏，也可以到 YouTube 的纽约时报频道观看。&lt;/p&gt;
+
+&lt;h2 id=&#34;imax-长短相适-软硬结合:1722b5c79043ffb98eedf6fd1905588e&#34;&gt;IMAX：长短相适、软硬结合&lt;/h2&gt;
+
+&lt;p&gt;昨日，IMAX 与谷歌宣布合作研发「影院级」VR 摄像机。&lt;/p&gt;
+
+&lt;p&gt;这个摄像机将帮助导演自由拍摄高质量 3D、360°画面。根据合作双方的背景，可以预测 IMAX 的技术人员将负责摄像机部分，谷歌则主要集中在 VR 内容的呈现部分。&lt;/p&gt;
+
+&lt;p&gt;从过去的经历来看，一旦这种大体量公司们投入巨资之后，新技术会很快进入电影院和家家户户中，因此两个巨头的合作让 VR 电影前景变得更加乐观。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://h.hiphotos.baidu.com/news/w%3D638/sign=1c58a83d8a1001e94e3c170c800f7b06/2cf5e0fe9925bc31e3f4e04c59df8db1ca1370bd.jpg&#34; alt=&#34;imax&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;IMAX 的工程师团队和摄像机专家将与谷歌合作，从头开始设计新型高清摄像机。IMAX 拥有世界最顶级的画面捕捉技术，世界最具影响力的导演也都在使用 IMAX 技术，如克里斯托弗·诺兰（《星际穿越》导演）、J·J·艾布拉姆斯（《星际迷航》、《星球大战 7》导演）等。&lt;/p&gt;
+
+&lt;p&gt;「IMAX 在过去 50 年间一直处在移动画面捕捉的前沿，帮助电影导演制作高质量的 2D、3D 电影，」&lt;/p&gt;
+
+&lt;p&gt;IMAX CEO 理查德•盖尔方德（Richard L. Gelfond）表示，「与谷歌合作将把 IMAX 带到另一个前沿，就是沉浸式 VR 视频。我们期待与谷歌合作，为电影导演和视频内容制作者提供设备，帮助他们以前所未有的高质量捕捉画面」。&lt;/p&gt;
+
+&lt;h2 id=&#34;youtube-专属应用-jump-ready-全面拥抱-vr-内容:1722b5c79043ffb98eedf6fd1905588e&#34;&gt;YouTube：专属应用＋Jump-ready＋全面拥抱 VR 内容&lt;/h2&gt;
+
+&lt;p&gt;YouTube 将发布 VR 应用、与 NBA 等合作生产 VR 内容，并为谷歌 Jump 项目制作 VR 摄像机。&lt;/p&gt;
+
+&lt;p&gt;在谷歌公布 Daydream VR 平台后，表示将发布 YouTube VR 应用，时间预计与 Daydream 平台发布时间相同。&lt;/p&gt;
+
+&lt;p&gt;这款 YouTube VR 应用将延续 YouTube 中大家喜闻乐见的功能：语音搜索、发现、播放列表等等，希望成为最大的 VR 资源库，帮助观众搜索 VR 资源。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://e.hiphotos.baidu.com/news/w%3D638/sign=19f58d66b5b7d0a27bc9079ef3ed760d/a6efce1b9d16fdfa1b90273ab38f8c5495ee7b62.jpg&#34; alt=&#34;youtube&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;在 VR 内容方面，YouTube 一直在通过合作优化视频内容。YouTube 已经与 NBA、BuzzFeed 和 Tastemade 达成合作，探索虚拟环境中的叙事方式，让用户与内容制作者互动。&lt;/p&gt;
+
+&lt;p&gt;VR 内容制作硬件方面，YouTube 已经与 GoPro Odyssey 等 VR 摄影设备方展开合作，开发 Jump-ready 摄像机。昨天，YouTube 正式在洛杉矶和纽约市 YouTube Spaces 发布了 Youtube Jump 项目。&lt;/p&gt;
+
+&lt;p&gt;其实，YouTube 在过去一年间一直在进行优化以支持 VR 视频，包括开始支持 360°视频（包括提前录制的和直播视频两种）、VR 视频、空间音效等。另外，目前这些 YouTube 视频都可以直接通过 Cardboard 观看。&lt;/p&gt;
+
+&lt;h1 id=&#34;游戏方面:1722b5c79043ffb98eedf6fd1905588e&#34;&gt;游戏方面&lt;/h1&gt;
+
+&lt;h2 id=&#34;ccp-星战前夜-续集将随-daydream-一同发布:1722b5c79043ffb98eedf6fd1905588e&#34;&gt;CCP：《星战前夜》续集将随 Daydream 一同发布&lt;/h2&gt;
+
+&lt;p&gt;知名游戏公司 CCP 昨天宣布将在 Daydream 平台发布新游戏《Gunjack Next》，这款新游戏是之前在 Gear VR、Oculus Rift 和 HTC Vive 上爆火的《EVE:Gunjack》（《星战前夜》）续集，将在下半年 Daydream平台发布时与玩家见面。&lt;/p&gt;
+
+&lt;p&gt;《Gunjack Next》的背景同样是宇宙，「我」是宇宙战争中的一名射击手，与一波波来袭的敌人进行战争。这个续集游戏同样由 CCP Games 上海工作室制作，据说发挥了 Daydream 控制器的优势。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://f.hiphotos.baidu.com/news/w%3D638/sign=188e51d1e2dde711e7d240f59fedcef4/d009b3de9c82d1580153b865870a19d8bd3e4215.jpg&#34; alt=&#34;gunjack&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;「听到谷歌 Daydream 平台的细节时，我们就决定加入，」CCP CEO 希尔马·韦加·佩特松（Hilmar Veigar Pétursson）说，「我们认为谷歌在 Daydream 平台上投入了很多，同时我们在开发高质量、玩家期待的 VR 游戏方面经验丰富，双方有开展良好合作的基础。」&lt;/p&gt;
+
+&lt;p&gt;此前发布的《EVE:Gunjack》是 CCP 官方发售的首款 VR 游戏，去年 11 月在 Gear VR 平台上发布。当时正逢 Gear VR 消费者版本发售，《EVE:Gunjack》以超越此前任何一个移动 VR 游戏的视觉效果，很快获得大量下载和口碑。&lt;/p&gt;
+
+&lt;p&gt;CCP 公司擅长制作太空科幻类游戏，相信未来的《Gunjack Next》也会给玩家带来惊喜。&lt;/p&gt;
+
+&lt;h2 id=&#34;epic-games-全面接入虚幻引擎:1722b5c79043ffb98eedf6fd1905588e&#34;&gt;Epic Games：全面接入虚幻引擎&lt;/h2&gt;
+
+&lt;p&gt;Epic Games 开发的 VR 内容创作引擎 Unreal Engine（虚幻引擎）与谷歌 Daydream 平台达成合作，这意味着 Daydream 平台将支持 Unreal 游戏。&lt;/p&gt;
+
+&lt;p&gt;随着两大创作引擎 Unity 和 Unreal Engine 宣布与谷歌合作，Daydream 平台在游戏开发方面已一路畅通。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://f.hiphotos.baidu.com/news/w%3D638/sign=7d87af0853e736d158138f0ba3514ffc/5fdf8db1cb134954ccaa09b0514e9258d0094aaa.jpg&#34; alt=&#34;epic&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;昨日，Epic Games CTO Kim Library 在 Google I/O 大会发表主题演讲，表示最新版的 Unreal Engine 4 将入驻 Daydream 平台。Unreal Engine 是 Epic Games 发行的强大的游戏设计工具包，非常受游戏开发者欢迎。&lt;/p&gt;
+
+&lt;p&gt;这是 Epic Games、谷歌、Hardsuit Labs 通力合作的结果。目前，Epic Games&lt;/p&gt;
+
+&lt;p&gt;已经开发了一个他们称之为 Dungeon 的应用，这个应用可以发挥 Daydream 平台功能特征，包括动作感应和与头显配套的控制器。&lt;/p&gt;
+
+&lt;p&gt;从昨天开始，利用 Unreal Engine 4 开发的游戏可以直接适配 Google Cardboard。&lt;/p&gt;
+
+&lt;p&gt;本文参考了 TechInsider、Google blog、Collider、RoadtoVR 的信息。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Oculus Rift阴影下 谷歌的Daydream是否有存在必要？</title>
+      <link>http://vr.anasit.com/blog/news/daydream-rift/</link>
+      <pubDate>Sun, 22 May 2016 15:03:37 +0800</pubDate>
+      
+      <guid>http://vr.anasit.com/blog/news/daydream-rift/</guid>
+      <description>
+
+&lt;p&gt;用类似Oculus Rift，HTC Vive这种设备玩大型游戏的需求会一直都在，但永远不会是所有人的需求，但是观看3D甚至全景VR电影却不会有人拒绝，便利性逆天的Daydream可能也将会是每个人标配。&lt;/p&gt;
+
+&lt;p&gt;自1962年Morton HEILIG制作出第一台虚拟现实设备“Sensorama Simulator”起，VR开始以一种具象的方式出现在人们面前，继而开始了那缓慢但又坚定的发展路程。&lt;/p&gt;
+
+&lt;p&gt;2012年Oculus Rift通过国外知名众筹网站Kicks tarter募资到160万美元，后来被Facebook以20亿的天价收购。而当时Unity作为第一个支持Oculus眼镜的引擎，吸引了大批开发者投身VR项目的开发中。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://a.hiphotos.baidu.com/news/w%3D638/sign=7659e1dbb1003af34dbadf630d2bc619/a2cc7cd98d1001e9798b15ddbf0e7bec55e797a8.jpg&#34; alt=&#34;rift&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;2014年Google发布了Google cardboard，让消费者能以非常低廉的成本通过手机来体验VR世界，直接点燃了今日Mobile VR的超级大战。&lt;/p&gt;
+
+&lt;h1 id=&#34;移动vr体验难媲美pc-vr产品:801dd890e3c6f0f9515c5b8023fae97d&#34;&gt;移动VR体验难媲美PC VR产品&lt;/h1&gt;
+
+&lt;p&gt;手机VR市场如火如荼，VR手机盒子淘宝店动辄四五位数的销量似乎在诉说着这就是下 一代的交互方式。但是，由暴风魔镜领头的一众手机盒子由于捉襟见肘的手机硬件，比较高的延迟，抖动的视角，严重的屏幕颗粒感（少数2k以上高分辨率屏幕除 外），较低的屏幕刷新率，与手机操作割裂的使用体验，始终只能是用户拿来尝鲜的一个方案，这点通过炒得火热却始终未见谁盈利的手机VR软件市场可见一斑。&lt;/p&gt;
+
+&lt;p&gt;但是一般的需要连接PC的VR产品如Oculus Rift或HTC等则不会出现这种情况。虽然便利性是移动VR最大的优势之一，它不需要像PC VR设备那样，动辄需要数根线缆以及众多周边设备的支持，但移动性的特点也限制了其应用的领域和计算的性能。&lt;/p&gt;
+
+&lt;p&gt;从应用场景来看，移动VR主要应用领域还是在游戏和多媒体等方面，或者说更倾向于内容消费，并且还只是精简的版本。这个问题在游戏上表现的非常明显，用户能玩的最多就是VR版的“手机游戏”，想玩大型游戏还是洗洗睡吧。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://g.hiphotos.baidu.com/news/w%3D638/sign=319891207a1ed21b79c92de6956fddae/83025aafa40f4bfb4de19e86044f78f0f736182a.jpg&#34; alt=&#34;daydream&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;目前来看移动VR还威胁不到PC，硬件的核心是软件，大型游戏厂商都在给 Oculus做游戏，而手机VR的软件素质着实堪忧，除了Oculus支持的三星Gear VR有《我的世界VR版》支撑之外，普通安卓VR盒子上始终没有大作问世。反之，由于需要核心显卡的支持，VR实际上给沉闷的PC游戏行业注入了活力，这 也是为什么英伟达这样的显示技术厂商，会不断的出现在各大虚拟现实活动现场，甚至是赞助虚拟现实活动的原因。&lt;/p&gt;
+
+&lt;h1 id=&#34;如今vr市场难以培养忠实用户:801dd890e3c6f0f9515c5b8023fae97d&#34;&gt;如今VR市场难以培养忠实用户&lt;/h1&gt;
+
+&lt;p&gt;VR作为一种无法通过语言、屏幕，而只能通过自身体验才能发现其魅力的新的交互方 式，PC VR设备不仅需要购买VR设备本身，还需要购置昂贵的高配置电脑及游戏手柄，门槛较高。并且高成本的前提下还要受到OCULUS本身排斥其他VR设备，强 调独占游戏软件的封闭模式的限制，将大量的潜在VR用户挡在了门外。最好的VR体验需要花费大量的时间和金钱来创造，但目前还没有足够的用户愿意花钱去购 买；廉价的手机VR又难以提起用户的兴趣，这就构成了现今VR界最大的难题。&lt;/p&gt;
+
+&lt;p&gt;高性能不一定有大前途，Daydream即便不是未来，也将打开局面。&lt;/p&gt;
+
+&lt;p&gt;Oculus Rift尽管从发布之初一直受到最大的关注，但是其消费者版本的首发 销量只有区区10万，还包括了后续可能取消的订单。尽管Oculus Rift的售价只有599美金。但是显然持币观望的人们还没有做好准备投入 OCULUS打造的VR世界，现在VR的发展方向不明朗的情况下，用户投入大量的资金和精力是不明智的。&lt;/p&gt;
+
+&lt;p&gt;被称为VR元年的2016年，VR一体机设备并没有能够开一个好头。这时，谷歌在 I/O大会上提出的安卓VR平台Daydream给VR指出了另外一条道路。同Oculus Rift和Oculus提供支持的三星Gear VR自上而 下的封闭系统不同，Daydream吸取安卓的成功经验，由谷歌提供平台技术支持，通过与手机硬件厂商合作，提出传感器等硬件要求以统一提高用户体验，并 最终将开发的主导权交给广大的开发者。所以说，安卓VR并不像人们事先猜想的是类似谷歌cardboard的硬件换代产品，而是一套由谷歌所提供的成熟的 软件硬件方案，以提高安卓手机上VR的使用体验。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://h.hiphotos.baidu.com/news/w%3D638/sign=67e4f62cc4fdfc03e578e0bbec3e87a9/43a7d933c895d1430253e4f174f082025aaf073e.jpg&#34; alt=&#34;daydreamin&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;目前安卓手机上VR体验最好的三星Gear VR，将提高VR体验的核心硬件之一传 感器放置于盒子中，并由盒子上的接口识别是否三星Galaxy系列手机，实在是用心良苦，三星和Oculus借此保证用户不能使用其他品牌手机在 Gear VR盒子上使用，以保证Galaxy以及Rift的销量。但是Daydream不同，手机厂商只需同谷歌合作，便能够将自己的手机适配 Daydream。用户只需购买一个支持Daydream的高配手机，品牌可以是小米、华为，中兴或者HTC，然后配合一个廉价VR盒子即可获得不输与昂 贵的三星Gear VR的体验，并且不需受制于Oculus Store的制约。&lt;/p&gt;
+
+&lt;p&gt;尽管不敌Oculus Rift或者HTC VIVE配合的强劲电脑的性能，但是不少用户认为VR的方式并不适合需要长时间沉浸的传统游戏，反而更适合专门针对VR设计的小品级游戏。谷歌在发布会上 一笔带过的类Apple TV遥控的体感控制器看似神来之笔，其实暗藏野心，体现了谷歌对未来VR游戏的规划。现在游戏业界3A大作难觅，手游市场爆炸难说不是VR前车之鉴。&lt;/p&gt;
+
+&lt;p&gt;通过发布会我们不难发现Daydream的软件使用体验还要远优于Gear VR， 因为Daydream提供了一个完整的VR UI，用户不需像Gear VR或者其他VR手机盒子那样频繁的摘下手机进行操作。用户可以在VR界面下接听 电话，查看信息，浏览YouTube，甚至可以使用Google Play，这种使用体验只有安卓底层的提供者谷歌才能实现。不只如此，我们有理由相信不 远的未来谷歌将会给安卓系统没整适配VR，用户可以在VR下完整使用安卓的所有功能。&lt;/p&gt;
+
+&lt;p&gt;用类似Oculus Rift，HTC Vive这种设备玩大型游戏的需求会一直都在，但永远不会是所有人的需求，但是观看3D甚至全景VR电影却不会有人拒绝，而且智能手机是现代人的标配没有 疑问，在多媒体需求下，对性能没有需求，而便利性逆天的Daydream可能也将会是每个人标配，今秋之后，随身携带IMAX巨幕影院也许不再是梦想。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google Daydream VR平台-Cardboard 2.0将颠覆消费级别VR体验!</title>
