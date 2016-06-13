@@ -7,6 +7,8 @@ Keywords:
 - tcl
 - daydream
 img:
+- http://www.tcl.com/attached/image/20160530/20160530102439_57073.jpg
+- http://www.tcl.com/attached/image/20160530/20160530102500_12576.jpg
 title: TCL通讯旗下阿尔卡特智能手机将支持谷歌Daydream平台,打造全新VR体验
 version: 1.0.0
 date: 2016-05-30T07:00:00+08:00
