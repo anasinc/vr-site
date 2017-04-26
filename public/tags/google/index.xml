@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Google on Anas VR&#39;s Homesite | 安纳斯VR官方网站</title>
-    <link>http://vr.anasit.com/tags/google/</link>
+    <link>http://vr.anasit.com/tags/google/index.xml</link>
     <description>Recent content in Google on Anas VR&#39;s Homesite | 安纳斯VR官方网站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2015-2016 Anas VR&#39;s Homesite | 安纳斯VR官方网站</copyright>
-    <lastBuildDate>Sat, 21 May 2016 15:03:37 +0800</lastBuildDate>
     <atom:link href="http://vr.anasit.com/tags/google/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -18,7 +17,7 @@
       <guid>http://vr.anasit.com/blog/news/daydream-comment/</guid>
       <description>
 
-&lt;h1 id=&#34;谷歌daydream-android-vr平台是cardboard-2-0:da9d267b3285a34a52e766f1bf650a8e&#34;&gt;谷歌Daydream Android VR平台是Cardboard 2.0&lt;/h1&gt;
+&lt;h1 id=&#34;谷歌daydream-android-vr平台是cardboard-2-0&#34;&gt;谷歌Daydream Android VR平台是Cardboard 2.0&lt;/h1&gt;
 
 &lt;p&gt;谷歌在I/O大会上宣布了一个新的基于Android N的虚拟现实平台Daydream，回答了“Cardboard之后是什么?”这一问题。&lt;/p&gt;
 
@@ -34,7 +33,7 @@
 
 &lt;p&gt;Android N将支持VR模式，巴沃尔说这将使人们在戴着头显的同时浏览手机的应用程序和内容。这会使Android手机更好地成为高质量VR系统的核心，而不是如我们今天拥有的杂乱体验。为了更好的观看体验，VR模式还将提高处理器性能，缩短屏幕延迟到20 ms以内。&lt;/p&gt;
 
-&lt;h1 id=&#34;vr版的google-play:da9d267b3285a34a52e766f1bf650a8e&#34;&gt;VR版的Google Play&lt;/h1&gt;
+&lt;h1 id=&#34;vr版的google-play&#34;&gt;VR版的Google Play&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://vr.anasit.com/news/daydream-ui.jpg&#34; alt=&#34;dd-dev&#34; /&gt;&lt;/p&gt;
 
@@ -48,7 +47,7 @@
 
 &lt;p&gt;Daydream开发者预览版已经开放给开发者。&lt;/p&gt;
 
-&lt;h1 id=&#34;vr的爆发点就是杀手级应用出现的时候:da9d267b3285a34a52e766f1bf650a8e&#34;&gt;VR的爆发点就是杀手级应用出现的时候&lt;/h1&gt;
+&lt;h1 id=&#34;vr的爆发点就是杀手级应用出现的时候&#34;&gt;VR的爆发点就是杀手级应用出现的时候&lt;/h1&gt;
 
 &lt;p&gt;Daydream能推进行业发展，至少这些手机厂商的PR费用加起来就多不少，至于提高VR内容数量质量就没那么快了，尤其是国内，高质量的会引擎的人不多。&lt;/p&gt;
 

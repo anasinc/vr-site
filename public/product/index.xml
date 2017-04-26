@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Products on Anas VR&#39;s Homesite | 安纳斯VR官方网站</title>
-    <link>http://vr.anasit.com/product/</link>
+    <link>http://vr.anasit.com/product/index.xml</link>
     <description>Recent content in Products on Anas VR&#39;s Homesite | 安纳斯VR官方网站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -18,9 +18,9 @@
       <guid>http://vr.anasit.com/product/cardboardv2/</guid>
       <description>
 
-&lt;h1 id=&#34;纸盒v2-经典款-anas-cardboard-v2-classic:f34ec852317a922ec25320361a692391&#34;&gt;纸盒V2-经典款 | Anas Cardboard V2 - Classic&lt;/h1&gt;
+&lt;h1 id=&#34;纸盒v2-经典款-anas-cardboard-v2-classic&#34;&gt;纸盒V2-经典款 | Anas Cardboard V2 - Classic&lt;/h1&gt;
 
-&lt;h2 id=&#34;简介及技术点:f34ec852317a922ec25320361a692391&#34;&gt;简介及技术点&lt;/h2&gt;
+&lt;h2 id=&#34;简介及技术点&#34;&gt;简介及技术点&lt;/h2&gt;
 </description>
     </item>
     
@@ -32,9 +32,9 @@
       <guid>http://vr.anasit.com/product/cardboardv2-colorful/</guid>
       <description>
 
-&lt;h1 id=&#34;纸盒v2-缤纷款-anas-cardboard-v2-colorful:a52d0948be26e40a5e7543e95623cad5&#34;&gt;纸盒V2-缤纷款 | Anas Cardboard V2 - Colorful&lt;/h1&gt;
+&lt;h1 id=&#34;纸盒v2-缤纷款-anas-cardboard-v2-colorful&#34;&gt;纸盒V2-缤纷款 | Anas Cardboard V2 - Colorful&lt;/h1&gt;
 
-&lt;h2 id=&#34;简介及技术点:a52d0948be26e40a5e7543e95623cad5&#34;&gt;简介及技术点&lt;/h2&gt;
+&lt;h2 id=&#34;简介及技术点&#34;&gt;简介及技术点&lt;/h2&gt;
 </description>
     </item>
     
